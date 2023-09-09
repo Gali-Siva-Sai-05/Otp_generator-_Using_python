@@ -24,9 +24,9 @@ OTP generator with acceptor and timer using python
 - You must enter the OTP within the time limit.
 - If you enter the correct OTP in time, it's accepted; otherwise, it's not accepted.
 ## Example
-  Enter otp : 1234
-  02:54
-  Accepted
+  - Enter otp : 1234
+  - 02:54
+  - Accepted
 ## Requirements
   Python 3.x
   

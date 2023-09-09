@@ -18,23 +18,24 @@ OTP generator with acceptor and timer using python
 
    ```shell
    python otp_generator.py
-3.How It Works
+## How It Works
 -The program generates a random 4-digit OTP.
 -A countdown timer of 10 seconds is displayed.
 -You must enter the OTP within the time limit.
 -If you enter the correct OTP in time, it's accepted; otherwise, it's not accepted.
-**Example**
+## Example
   Enter otp : 1234
   02:54
   Accepted
-**Requirements**
+## Requirements
   Python 3.x
   
-**Acknowledgments**
+## Acknowledgments
 -This program was created as a demonstration and educational project.
-**Contributing**
+## Contributing
 -If you'd like to contribute to this project or report issues, please open an issue or submit a pull request.
 
-**Author**
+## Author
 Gali Siva Sai
-Feel free to reach out with any questions or feedback!
+
+## Feel free to reach out with any questions or feedback!
